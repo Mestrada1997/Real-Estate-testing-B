@@ -2,6 +2,7 @@ import requests
 import streamlit as st 
 #from streamlit_lottie import st_lottie
 import pandas as pd 
+import plotly
 import plotly.express as px 
 from PIL import Image
 import pathlib as Path
